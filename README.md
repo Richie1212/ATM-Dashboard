@@ -1,6 +1,12 @@
 # ATM-Dashboard
 This Power BI dashboard provides a comprehensive overview of ATM transactions, costs, and revenues across different regions. The dashboard is designed to help stakeholders understand the performance, costs, and trends in ATM operations.
 
+DASHBOARD OVERVIEW
+![dashboard overview](https://github.com/user-attachments/assets/29d5b43f-cd97-487e-9587-ff438927c553)
+
+Live Preview
+<iframe title="ATM Dashnoard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjlkNjU0ZjgtMDk1ZC00NzQ1LWJlN2UtMDAwZmQ5YTE4YWRkIiwidCI6IjZhNWYyYTQxLTQyNmItNGVlNy05NTRmLWFlMWE0M2U0YmU3ZSJ9&embedImagePlaceholder=true&pageName=ee26219c85b6f024dbc7" frameborder="0" allowFullScreen="true"></iframe>
+
 These are the visualizations to notice:
 
 KEY METRICS
@@ -47,12 +53,6 @@ This line chart shows the trend of total transactions over time, specifically hi
 - July 2024
 - September 2024
 - November 2024
-
-DASHBOARD OVERVIEW
-![dashboard overview](https://github.com/user-attachments/assets/29d5b43f-cd97-487e-9587-ff438927c553)
-
-Live Preview
-<iframe title="ATM Dashnoard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjlkNjU0ZjgtMDk1ZC00NzQ1LWJlN2UtMDAwZmQ5YTE4YWRkIiwidCI6IjZhNWYyYTQxLTQyNmItNGVlNy05NTRmLWFlMWE0M2U0YmU3ZSJ9&embedImagePlaceholder=true&pageName=ee26219c85b6f024dbc7" frameborder="0" allowFullScreen="true"></iframe>
 
 How I CREATED THE DASHBOARD
 
