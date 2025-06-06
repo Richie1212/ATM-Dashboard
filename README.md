@@ -81,6 +81,9 @@ Importance of These Insights
 - Financial Performance: Key metrics help in assessing the financial health of the ATM network, guiding decisions to improve profitability.
 
 
+Let's Connect
+- LinkedIn
+- richardsyeb23@gmail.com
 
 
 
